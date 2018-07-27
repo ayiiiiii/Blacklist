@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blacklist</string>
+
+    <string name="please_wait">Please Wait..</string>
+
+    <string name="apps">Apps</string>
+    <string name="blacklisted_apps">Blacklisted Apps</string>
+
+    <string name="ok">OK</string>
+    
+    <string name="enable_or_disable_accessibility_service_to_enable_or_disable_no_distraction_mode">Enable or disable accessibility service to enable or disable no distraction mode</string>
+    
+    <string name="no_distraction_mode">No Distraction Mode</string>
+    <string name="this_app_is_blacklisted">This app is Blacklisted</string>
+
+    <string name="accessibility_service_name">Blacklist Accessibility Service</string>
+    <string name="accessibility_service_description">Gets current foreground application changes</string>
+</resources>
